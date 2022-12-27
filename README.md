@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nitesh Meena
+- 👀 I’m interested in Web development (frontend)
+- 🌱 I’m currently learning Web Development Backend
+- 💞️ I’m looking to collaborate on SDE Or Web development
+- 📫 How to reach me -> Drop a mail on meena.58@iitj.ac.in
